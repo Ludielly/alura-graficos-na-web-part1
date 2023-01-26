@@ -1,5 +1,3 @@
-google.charts.load('current', {packages: ['corechart']});
-
 function desenhaPizza3D(){
   var tabela = new google.visualization.DataTable();
   tabela.addColumn('string', 'Categorias');
