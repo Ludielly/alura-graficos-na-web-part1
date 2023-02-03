@@ -17,7 +17,7 @@ function desenhaColuna2(){
       title: 'Tipos de Gastos',
       heigth: 500,
       width: 650,
-      vAxis: {gridlines: {count:0, color: 'transparent'}},
+      vAxis: {gridlines: {color: 'transparent'}},
       legend: 'none'
     }
 
